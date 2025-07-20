@@ -30,19 +30,25 @@ Feedback or questions about any project or process is welcomed via a github issu
 
 ### [Time Lapse Bali](./Time-Lapse-Bali/)  
   ![Thumbnail](thumbnails/timelapse.jpg)  
-  
+
   [Raw Timelapse exports shot during dinacon bali 2025](https://photos.app.goo.gl/9DSYiJyWBQaMnbCb9)
 
 ### [Time Cache Bali](./Time-Cache-Bali/)  
   _A non-linear collage project that consists of anachronistic time dilated gradient compositions made from static timelapse image sequences and greyscale procedurally generated feedback loop luminance maps._ 
 
 ### [iNaturalist Downloader](https://github.com/drmbt/iNaturalist-downloader)  
-  _A script and CLI tool for querying and downloading images and information from the iNaturalist API._  
-  ![Thumbnail](thumbnails/inaturalist-downloader.png)  
-  [View Project](./iNaturalist-Downloader/) | [GitHub Repo](#) | [Demo/Site](#)
+  _A script and CLI tool for querying and downloading images and information from the iNaturalist API._
 
-### [iNaturalist Image Selects]
+  This script allowed me to pull locally sourced images of the flora and fauna found around Les fishing village, sort them by kingdom and attribution, and manually curate images for use in the texture cache project.
+
+### [iNaturalist Image Selects](https://photos.app.goo.gl/2sU4z2tfgWMhbDni6)
   _curated and processed images pulled from a time-gated query of the iNaturalist API localiseed within 8km of Les fishing village during dinacon, and used in the Texture Cache project_
+  
+  After curating images that would read well in landscape orientation and were of a relatively high original resolution, I processed them through lightroom for cropping, reorienting and color balancing, and then ran them through Topaz Gigapixel AI (decidedly not open source) as its the only process I'm aware of that will not just upscale an image, but increase its bit depth from 8 to 16. This is important for the texture caching process, as 8 bit compression artifacts, particularly from web scaled .jpg images create awful artifacting when used in my texture cache workflow
+
+  Although an AI upscaler by nature introduces some amount of hallucination, I'm not concerned in this case as their primary use is for shape, since they will be looked up anyhow and reconstituted using the hi resolution textures captured in my library 
+
+  ![Thumbnail](thumbnails/iNaturalist.jpg)
 
 ### 3D Model From Single Image AI
   _as a part of the 3d modeling cohort, I experimented with leveraging open source AI models to create 3d meshes_
