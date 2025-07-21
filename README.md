@@ -25,7 +25,7 @@ Feedback or questions about any project or process is welcomed via a github issu
 
   I wrote a custom shader that encodes luminance data for "low saturation" pixels into the 0.0 - 0.5 value pixel range of a grey scale key image, and ROYGBIV color sorted information into the 0.5 - 1.0 range of a luminance map to create compositions that depict local life, flora and fauna as painterly collages reconstituted from the decaying textures photographed during this trip.
 
-  More about the technique and philosophy of this practice can be found via link, or the 4th installment of the 2025 Dinachron Newsletter in the essay ["On Textures"](./docs/On-Textures.md) written while camera-sitting a timelapse session
+  More about the technique and philosophy of this practice can be found via link, or the 4th installment of the 2025 Dinachron Newsletter in the essay ["On Textures and Time"](./docs/On-Textures-and-Time.md), written while camera-sitting a timelapse session
 
 
 ### [Time Lapse Bali](./Time-Lapse-Bali/)  
@@ -59,6 +59,8 @@ Feedback or questions about any project or process is welcomed via a github issu
   [Dinacon Bali 2025 Story Selects](https://photos.app.goo.gl/xhbz6ERDyrVhF7Vd6)
 
   [Plant Olympics](https://photos.app.goo.gl/HKRcKAJaw3vcxCg67)  
+
+  [Texture Library](https://photos.app.goo.gl/zmqjz56mBvRjYoAZ6) (same as above)
 
 ### 3D Model From Single Image AI
   _as a part of the 3d modeling cohort, I experimented with leveraging open source AI models to create 3d meshes_
