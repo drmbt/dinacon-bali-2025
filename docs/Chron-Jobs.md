@@ -1,12 +1,19 @@
- # Chron Jobs
+---
+layout: page
+title: Chron Jobs
+description: Dinacon's unofficial gig board for those short on funding but long on mosquito bites
+categories: [newsletter]
+---
 
- Dinacon’s unofficial gig board for those short on funding but long on mosquito bites.  
+# Chron Jobs
+
+Dinacon's unofficial gig board for those short on funding but long on mosquito bites.  
 
 🐚 **Shell Whisperer**  
 Must be fluent in mollusk. Translate crab murmurs into machine-readable formats. BYO hydrophone.
 
 🔋 **Coconut Power Grid Intern** _(Unpaid)_  
-Harvest fallen coconuts. Convince them they’re batteries. Die of heatstroke.
+Harvest fallen coconuts. Convince them they're batteries. Die of heatstroke.
 
 🌊 **Seawater Sommelier**  
 _*Swirls tidewater in a cracked mason jar*_  

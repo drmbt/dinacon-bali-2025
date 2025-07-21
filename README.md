@@ -1,20 +1,78 @@
 # Dinacon Bali 2025 Master Index
 
-Welcome to the archive and documentation hub for the projects created by [Vincent Naples (@drmbt)](www.drmbt.com) in the Les fishing village during the [Dinacon Bali 2025](https://2025.dinacon.org/) conference and art residency.
+Welcome to the archive and documentation hub for the projects created by [Vincent Naples (@drmbt)](https://www.drmbt.com) in the Les fishing village during the [Dinacon Bali 2025](https://2025.dinacon.org/) conference and art residency.
 
 ## About
-This site serves as a landing page for all related projects, including documentation, code written and employed, essay's and documentation on the process and a column written for the Dinachron newsletter. It is still a WIP as I document these projects.
+This site serves as a landing page for all related projects, including documentation, code written and employed, essays and documentation on the process and a column written for the Dinachron newsletter. It is still a WIP as I document these projects.
 
-Feedback or questions about any project or process is welcomed via a github issue report, or email to [vincent@drmbt.com](mailto:vincent@drmbt.com) 
+Feedback or questions about any project or process is welcomed via a [GitHub issue report](https://github.com/drmbt/dinacon-index/issues), or email to [vincent@drmbt.com](mailto:vincent@drmbt.com)
 
----
+## 🚀 Live Site
+Visit the live site: [https://drmbt.github.io/dinacon-index](https://drmbt.github.io/dinacon-index)
 
-## Projects  
+## 🛠️ Local Development
+
+This site is built with Jekyll and deployed via GitHub Pages. To run it locally:
+
+### Prerequisites
+- Ruby 3.2 or higher
+- Bundler
+
+### Setup
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/drmbt/dinacon-index.git
+   cd dinacon-index
+   ```
+
+2. Install dependencies:
+   ```bash
+   bundle install
+   ```
+
+3. Start the local server:
+   ```bash
+   bundle exec jekyll serve
+   ```
+
+4. Open your browser and visit `http://localhost:4000`
+
+### Build for Production
+```bash
+bundle exec jekyll build
+```
+
+## 🎨 Features
+
+- **Dark Mode Design**: Modern dark theme with beautiful typography
+- **Responsive Layout**: Works perfectly on desktop, tablet, and mobile
+- **Project Cards**: Beautiful grid layout for showcasing projects
+- **Documentation Pages**: Dedicated pages for essays and documentation
+- **GitHub Integration**: Direct links to repository and issue reporting
+- **SEO Optimized**: Proper meta tags and Open Graph support
+
+## 📁 Project Structure
+
+```
+dinacon-index/
+├── _config.yml          # Jekyll configuration
+├── _layouts/            # Page layouts
+│   ├── default.html     # Main layout with dark mode
+│   └── page.html        # Individual page layout
+├── assets/
+│   └── css/
+│       └── style.css    # Dark mode styles
+├── docs/                # Documentation pages
+├── thumbnails/          # Project thumbnails
+├── index.md             # Homepage content
+└── 404.html            # Custom error page
+```
+
+## 🎯 Projects
 
 ### [Texture Library](https://photos.app.goo.gl/zmqjz56mBvRjYoAZ6)  
   _A curated photo gallery of decontextualized textures collected in Bali._  
   ![Thumbnail](thumbnails/tex3d.jpg)  
-
 
 ### [Texture Cache](https://photos.app.goo.gl/5fgeBVUMi9ySxDxv9)  
   _A video collage project using the Texture Library as a lookup table._
@@ -27,7 +85,6 @@ Feedback or questions about any project or process is welcomed via a github issu
   I wrote a custom shader that encodes luminance data for "low saturation" pixels into the 0.0 - 0.5 value pixel range of a grey scale key image, and ROYGBIV color sorted information into the 0.5 - 1.0 range of a luminance map to create compositions that depict local life, flora and fauna as painterly collages reconstituted from the decaying textures photographed during this trip.
 
   More about the technique and philosophy of this practice can be found via link, or the 4th installment of the 2025 Dinachron Newsletter in the essay ["On Textures and Time"](./docs/On-Textures-and-Time.md), written while camera-sitting a timelapse session
-
 
 ### [Time Lapse Bali](./Time-Lapse-Bali/)  
   ![Thumbnail](thumbnails/timelapse.jpg)  
@@ -76,11 +133,30 @@ Feedback or questions about any project or process is welcomed via a github issu
 
 ## Featured Writing
 
-### Essay: On Texture
+### Essay: On Texture and Time
 [Read the essay](./docs/On-Textures.md)
 
 ### "Chron Jobs" Dinachron Newsletter Zine Column
 [Read Chron Jobs](./docs/Chron-Jobs.md)
 
 ---
+
+## 🤝 Contributing
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add some amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+---
+
+<div align="center">
+  <p>Built with ❤️ using Jekyll and GitHub Pages</p>
+  <p><a href="https://github.com/drmbt/dinacon-index" target="_blank" rel="noopener">View on GitHub</a></p>
+</div>
 
