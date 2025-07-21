@@ -19,6 +19,7 @@ Feedback or questions about any project or process is welcomed via a github issu
 ### [Texture Cache](https://photos.app.goo.gl/5fgeBVUMi9ySxDxv9)  
   _A video collage project using the Texture Library as a lookup table._
 
+  ![Thumbnail](thumbnails/SLH_ramp.jpg)  
   ![Thumbnail](thumbnails/tex-gradient.jpg)  
 
   This method leverages TouchDesigner's texture3d and time machine operators to recall individual pixels from a cached texture array that are looked up via the luminance of an incoming key input video feed. For this project, I'm caching the above texture library shot in Les Bali to reconstitute images captured by myself, other dinacon attendees, and curated from submissions to the iNaturalist API during this residency.
