@@ -5,10 +5,10 @@ Welcome to the archive and documentation hub for the projects created by [Vincen
 ## About
 This site serves as a landing page for all related projects, including documentation, code written and employed, essays and documentation on the process and a column written for the Dinachron newsletter. It is still a WIP as I document these projects.
 
-Feedback or questions about any project or process is welcomed via a [GitHub issue report](https://github.com/drmbt/dinacon-index/issues), or email to [vincent@drmbt.com](mailto:vincent@drmbt.com)
+Feedback or questions about any project or process is welcomed via a [GitHub issue report](https://github.com/drmbt/dinacon-bali-2025/issues), or email to [vincent@drmbt.com](mailto:vincent@drmbt.com)
 
 ## 🚀 Live Site
-Visit the live site: [https://drmbt.github.io/dinacon-index](https://drmbt.github.io/dinacon-index)
+Visit the live site: [https://drmbt.github.io/dinacon-bali-2025](https://drmbt.github.io/dinacon-bali-2025)
 
 ## 🛠️ Local Development
 
@@ -21,8 +21,8 @@ This site is built with Jekyll and deployed via GitHub Pages. To run it locally:
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/drmbt/dinacon-index.git
-   cd dinacon-index
+   git clone https://github.com/drmbt/dinacon-bali-2025.git
+   cd dinacon-bali-2025
    ```
 
 2. Install dependencies:
@@ -157,6 +157,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 <div align="center">
   <p>Built with ❤️ using Jekyll and GitHub Pages</p>
-  <p><a href="https://github.com/drmbt/dinacon-index" target="_blank" rel="noopener">View on GitHub</a></p>
+  <p><a href="https://github.com/drmbt/dinacon-bali-2025" target="_blank" rel="noopener">View on GitHub</a></p>
 </div>
 

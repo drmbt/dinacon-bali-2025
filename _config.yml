@@ -1,8 +1,8 @@
 title: Dinacon Bali 2025 Master Index
 description: Archive and documentation hub for projects created during Dinacon Bali 2025
 author: Vincent Naples (@drmbt)
-url: "https://drmbt.github.io/dinacon-index"
-baseurl: "/dinacon-index"
+url: "https://drmbt.github.io/dinacon-bali-2025"
+baseurl: ""
 
 # Build settings
 markdown: kramdown
