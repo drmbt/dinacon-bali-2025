@@ -8,6 +8,10 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    permissions:
+      id-token: write
+      pages: write
+      contents: read
     steps:
       - uses: actions/checkout@v4
       - name: Setup Pages
@@ -23,4 +27,4 @@ jobs:
           path: ./_site
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4 
+        uses: actions/deploy-pages@v4
