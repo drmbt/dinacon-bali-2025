@@ -41,6 +41,11 @@ jobs:
           
       - name: Verify images are copied
         run: |
+          echo "Checking thumbnails directory:"
+          ls -la _site/thumbnails/
+          echo "Thumbnails directory contents:"
+          find _site/thumbnails/ -type f -name "*.jpg"
+          echo "Checking images directory:"
           ls -la _site/images/
           echo "Images directory contents:"
           find _site/images/ -type f -name "*.jpg"
