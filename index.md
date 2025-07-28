@@ -12,7 +12,7 @@ Welcome to the archive and documentation hub for the projects created by [Vincen
 
 This site serves as a landing page for all related projects, including documentation, code written and employed, essays and documentation on the process and a column written for the Dinachron newsletter. It is still a WIP as I document these projects.
 
-Feedback or questions about any project or process is welcomed via a [GitHub issue report](https://github.com/drmbt/dinacon-index/issues), or email to [vincent@drmbt.com](mailto:vincent@drmbt.com)
+Feedback or questions about any project or process is welcomed via a [GitHub issue report](https://github.com/drmbt/dinacon-bali-2025/issues), or email to [vincent@drmbt.com](mailto:vincent@drmbt.com)
 
 ---
 
@@ -21,15 +21,15 @@ Feedback or questions about any project or process is welcomed via a [GitHub iss
 <div class="project-grid">
 
 <div class="project-card">
-  <img src="/thumbnails/tex3d.jpg" alt="Texture Library" class="project-thumbnail">
+  <img src="/assets/tex3d.jpg" alt="Texture Library" class="project-thumbnail">
   <h3><a href="https://photos.app.goo.gl/zmqjz56mBvRjYoAZ6" target="_blank" rel="noopener">Texture Library</a></h3>
   <p>A curated photo gallery of decontextualized textures collected in Bali.</p>
 </div>
 
 <div class="project-card">
   <div class="thumbnail-grid">
-    <img src="/thumbnails/SLH_ramp.jpg" alt="SLH Ramp">
-    <img src="/thumbnails/tex-gradient.jpg" alt="Texture Gradient">
+    <img src="/assets/SLH_ramp.jpg" alt="SLH Ramp">
+    <img src="/assets/tex-gradient.jpg" alt="Texture Gradient">
   </div>
   <h3><a href="https://photos.app.goo.gl/5fgeBVUMi9ySxDxv9" target="_blank" rel="noopener">Texture Cache</a></h3>
   <p>A video collage project using the Texture Library as a lookup table.</p>
@@ -42,7 +42,7 @@ Feedback or questions about any project or process is welcomed via a [GitHub iss
 </div>
 
 <div class="project-card">
-  <img src="/thumbnails/timelapse.jpg" alt="Time Lapse Bali" class="project-thumbnail">
+  <img src="/assets/timelapse.jpg" alt="Time Lapse Bali" class="project-thumbnail">
   <h3><a href="{{ '/Time-Lapse-Bali/' | relative_url }}">Time Lapse Bali</a></h3>
   <p><a href="https://photos.app.goo.gl/9DSYiJyWBQaMnbCb9" target="_blank" rel="noopener">Raw Timelapse exports shot during dinacon bali 2025</a></p>
 </div>
@@ -60,7 +60,7 @@ Feedback or questions about any project or process is welcomed via a [GitHub iss
 </div>
 
 <div class="project-card">
-  <img src="/thumbnails/iNaturalist.jpg" alt="iNaturalist Image Selects" class="project-thumbnail">
+  <img src="/assets/iNaturalist.jpg" alt="iNaturalist Image Selects" class="project-thumbnail">
   <h3><a href="https://photos.app.goo.gl/2sU4z2tfgWMhbDni6" target="_blank" rel="noopener">iNaturalist Image Selects</a></h3>
   <p>Curated and processed images pulled from a time-gated query of the iNaturalist API localized within 8km of Les fishing village during dinacon, and used in the Texture Cache project.</p>
   
@@ -83,7 +83,7 @@ Feedback or questions about any project or process is welcomed via a [GitHub iss
 </div>
 
 <div class="project-card">
-  <img src="/thumbnails/3d-model-from-single-image-AI.jpg" alt="3D Model From Single Image AI" class="project-thumbnail">
+  <img src="/assets/3d-model-from-single-image-AI.jpg" alt="3D Model From Single Image AI" class="project-thumbnail">
   <h3><a href="https://drive.google.com/drive/folders/1MnnwmTJcS1NHYoNZ0laKhD3mYq3bygjI?usp=sharing" target="_blank" rel="noopener">3D Model From Single Image AI</a></h3>
   <p>As a part of the 3d modeling cohort, I experimented with leveraging open source AI models to create 3d meshes.</p>
   
@@ -108,5 +108,5 @@ Read the Chron Jobs column from the Dinachron newsletter.
 
 <div class="text-center text-muted">
   <p>Built with ❤️ using Jekyll and GitHub Pages</p>
-  <p><a href="https://github.com/drmbt/dinacon-index" target="_blank" rel="noopener">View on GitHub</a></p>
+  <p><a href="https://github.com/drmbt/dinacon-bali-2025" target="_blank" rel="noopener">View on GitHub</a></p>
 </div> 
