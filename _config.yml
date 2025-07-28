@@ -24,6 +24,7 @@ plugins:
 include:
   - assets
   - images
+  - thumbnails
 
 # Exclude from processing
 exclude:
