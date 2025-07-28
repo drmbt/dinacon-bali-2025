@@ -182,8 +182,6 @@ a:hover {
     border-radius: var(--radius-md);
     margin-bottom: var(--spacing-md);
     transition: transform 0.3s ease;
-    border: 2px solid var(--accent-primary);
-    background-color: var(--bg-tertiary);
 }
 
 .project-card:hover .project-thumbnail {
@@ -204,8 +202,6 @@ a:hover {
     object-fit: cover;
     border-radius: var(--radius-md);
     transition: transform 0.3s ease;
-    border: 1px solid var(--border-color);
-    background-color: var(--bg-tertiary);
 }
 
 .thumbnail-grid img:hover {
