@@ -12,7 +12,7 @@ Welcome to the archive and documentation hub for the projects created by [Vincen
 
 This site serves as a landing page for all related projects, including documentation, code written and employed, essays and documentation on the process and a column written for the Dinachron newsletter. It is still a WIP as I document these projects.
 
-Feedback or questions about any project or process is welcomed via a [GitHub issue report](https://github.com/drmbt/dinacon-bali-2025/issues), or email to [vincent@drmbt.com](mailto:vincent@drmbt.com)
+Feedback or questions about any project or process is welcomed via a [GitHub issue report](https://github.com/drmbt/dinacon-index/issues), or email to [vincent@drmbt.com](mailto:vincent@drmbt.com)
 
 ---
 
@@ -108,5 +108,5 @@ Read the Chron Jobs column from the Dinachron newsletter.
 
 <div class="text-center text-muted">
   <p>Built with ❤️ using Jekyll and GitHub Pages</p>
-  <p><a href="https://github.com/drmbt/dinacon-bali-2025" target="_blank" rel="noopener">View on GitHub</a></p>
+  <p><a href="https://github.com/drmbt/dinacon-index" target="_blank" rel="noopener">View on GitHub</a></p>
 </div> 
