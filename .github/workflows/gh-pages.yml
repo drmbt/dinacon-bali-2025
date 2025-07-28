@@ -39,6 +39,12 @@ jobs:
           source: ./
           destination: ./_site
           
+      - name: Verify images are copied
+        run: |
+          ls -la _site/images/
+          echo "Images directory contents:"
+          find _site/images/ -type f -name "*.jpg"
+          
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
