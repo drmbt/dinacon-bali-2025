@@ -157,6 +157,9 @@ a:hover {
     transition: all 0.3s ease;
     position: relative;
     overflow: hidden;
+    max-height: 600px;
+    display: flex;
+    flex-direction: column;
 }
 
 .project-card:hover {
@@ -173,6 +176,30 @@ a:hover {
 .project-card p {
     color: var(--text-secondary);
     margin-bottom: var(--spacing-md);
+}
+
+.project-card .project-content {
+    flex: 1;
+    overflow-y: auto;
+    max-height: 400px;
+}
+
+.project-card .project-content::-webkit-scrollbar {
+    width: 6px;
+}
+
+.project-card .project-content::-webkit-scrollbar-track {
+    background: var(--bg-tertiary);
+    border-radius: 3px;
+}
+
+.project-card .project-content::-webkit-scrollbar-thumb {
+    background: var(--border-color);
+    border-radius: 3px;
+}
+
+.project-card .project-content::-webkit-scrollbar-thumb:hover {
+    background: var(--text-muted);
 }
 
 .project-thumbnail {
