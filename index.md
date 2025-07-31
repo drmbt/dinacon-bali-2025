@@ -43,8 +43,8 @@ Feedback or questions about any project or process is welcomed via a [GitHub iss
 
 <div class="project-card">
   <img src="{{ 'thumbnails/timelapse.jpg' | relative_url }}" alt="Time Lapse Bali" class="project-thumbnail">
-  <h3><a href="{{ '/Time-Lapse-Bali/' | relative_url }}">Time Lapse Bali</a></h3>
-  <p><a href="https://photos.app.goo.gl/9DSYiJyWBQaMnbCb9" target="_blank" rel="noopener">Raw Timelapse exports shot during dinacon bali 2025</a></p>
+  <h3><a href="https://photos.app.goo.gl/9DSYiJyWBQaMnbCb9" target="_blank" rel="noopener">Time Lapse Bali</a></h3>
+  <p>Raw Timelapse exports shot during dinacon bali 2025</p>
 </div>
 
 <div class="project-card">
@@ -79,6 +79,7 @@ Feedback or questions about any project or process is welcomed via a [GitHub iss
     <li><a href="https://photos.app.goo.gl/xhbz6ERDyrVhF7Vd6" target="_blank" rel="noopener">Dinacon Bali 2025 Story Selects</a></li>
     <li><a href="https://photos.app.goo.gl/HKRcKAJaw3vcxCg67" target="_blank" rel="noopener">Plant Olympics</a></li>
     <li><a href="https://photos.app.goo.gl/zmqjz56mBvRjYoAZ6" target="_blank" rel="noopener">Texture Library</a> (same as above)</li>
+    <li><a href="https://photos.app.goo.gl/9DSYiJyWBQaMnbCb9" target="_blank" rel="noopener">Timelapse Selects</a></li>
   </ul>
 </div>
 
