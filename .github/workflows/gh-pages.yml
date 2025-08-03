@@ -34,10 +34,9 @@ jobs:
         uses: actions/configure-pages@v4
         
       - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
-        with:
-          source: ./
-          destination: ./_site
+        run: |
+          bundle install
+          bundle exec jekyll build --destination ./_site
           
       - name: Verify images are copied
         run: |
