@@ -417,17 +417,16 @@ select:focus {
 }
 
 /* Hero image styles */
-.hero-image {
-    margin: var(--spacing-2xl) 0;
-    text-align: center;
-}
-
 .hero-img {
     max-width: 100%;
     height: auto;
     border-radius: var(--radius-lg);
     box-shadow: 0 8px 32px var(--shadow-color);
     transition: transform 0.3s ease;
+    margin: var(--spacing-2xl) 0;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .hero-img:hover {
@@ -435,7 +434,7 @@ select:focus {
 }
 
 @media (max-width: 768px) {
-    .hero-image {
+    .hero-img {
         margin: var(--spacing-xl) 0;
     }
 } 

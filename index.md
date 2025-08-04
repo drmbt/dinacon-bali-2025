@@ -4,6 +4,8 @@ title: Home
 description: Archive and documentation hub for projects created during Dinacon Bali 2025
 ---
 
+![Texture Cache Spread]({{ 'thumbnails/spread-texture-cache.jpg' | relative_url }}){: .hero-img}
+
 # Dinacon Bali 2025 Master Index
 
 Welcome to the archive and documentation hub for the projects created by [Vincent Naples (@drmbt)](https://www.drmbt.com) in the Les fishing village during the [Dinacon Bali 2025](https://2025.dinacon.org/) conference and art residency.
