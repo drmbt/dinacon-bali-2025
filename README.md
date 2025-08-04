@@ -1,7 +1,7 @@
 # Dinacon Bali 2025 Master Index
 
 <div align="center">
-  <img src="thumbnails/spread-texture-cache.png" alt="Texture Cache Spread" width="100%">
+  <img src="thumbnails/spread-texture-cache.jpg" alt="Texture Cache Spread" width="100%">
 </div>
 
 Welcome to the archive and documentation hub for the projects created by [Vincent Naples (@drmbt)](https://www.drmbt.com) in the Les fishing village during the [Dinacon Bali 2025](https://2025.dinacon.org/) conference and art residency.
@@ -53,7 +53,7 @@ bundle exec jekyll build
 ## 📁 Project Structure
 
 ```
-dinacon-index/
+dinacon-bali-2025/
 ├── _config.yml          # Jekyll configuration
 ├── _layouts/            # Page layouts
 │   ├── default.html     # Main layout with dark mode
