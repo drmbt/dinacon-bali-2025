@@ -414,4 +414,28 @@ textarea:focus,
 select:focus {
     outline: 2px solid var(--accent-primary);
     outline-offset: 2px;
+}
+
+/* Hero image styles */
+.hero-image {
+    margin: var(--spacing-2xl) 0;
+    text-align: center;
+}
+
+.hero-img {
+    max-width: 100%;
+    height: auto;
+    border-radius: var(--radius-lg);
+    box-shadow: 0 8px 32px var(--shadow-color);
+    transition: transform 0.3s ease;
+}
+
+.hero-img:hover {
+    transform: scale(1.02);
+}
+
+@media (max-width: 768px) {
+    .hero-image {
+        margin: var(--spacing-xl) 0;
+    }
 } 
