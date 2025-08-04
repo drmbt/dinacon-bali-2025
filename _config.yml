@@ -22,6 +22,8 @@ plugins:
 
 # Include files and directories
 include:
+  - assets
+  - images
   - thumbnails
 
 # Exclude from processing
