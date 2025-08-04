@@ -4,10 +4,6 @@ title: Home
 description: Archive and documentation hub for projects created during Dinacon Bali 2025
 ---
 
-<div class="hero-image">
-  <img src="{{ 'thumbnails/spread-texture-cache.png' | relative_url }}" alt="Texture Cache Spread" class="hero-img">
-</div>
-
 # Dinacon Bali 2025 Master Index
 
 Welcome to the archive and documentation hub for the projects created by [Vincent Naples (@drmbt)](https://www.drmbt.com) in the Les fishing village during the [Dinacon Bali 2025](https://2025.dinacon.org/) conference and art residency.
@@ -52,8 +48,21 @@ Feedback or questions about any project or process is welcomed via a [GitHub iss
 
 <div class="project-card">
   <img src="{{ 'thumbnails/timelapse.jpg' | relative_url }}" alt="Time Lapse Bali" class="project-thumbnail">
-  <h3><a href="https://photos.app.goo.gl/9DSYiJyWBQaMnbCb9" target="_blank" rel="noopener">Time Lapse Bali</a></h3>
-  <p>Raw Timelapse exports shot during dinacon bali 2025</p>
+  <div class="project-content">
+    <h3><a href="{{ '/Time-Lapse-Bali/' | relative_url }}">Time Lapse Bali</a></h3>
+    <p>A collection of timelapse photography sequences captured during Dinacon and the subsequent time on the island of Bali. These sequences were shot using the <a href="https://www.matjoez.com/2018/07/30/complete-guide-to-shooting-and-editing-holy-grail-timelapses/" target="_blank" rel="noopener">"Holy Grail Method"</a> of timelapse photography, a time-intensive process involving locked off ISO and aperture, with shutter speed manually changed with the lighting conditions to produce optimal transitions across sunrise/sunset without flickering.</p>
+    
+    <p><strong>Locations filmed:</strong></p>
+    <ul>
+      <li>Kura Kura Beach and Garden</li>
+      <li>Les Village Field</li>
+      <li>Kintamani</li>
+      <li>Mt. Butar</li>
+      <li>Pantai Batu Belig near Canggu</li>
+    </ul>
+    
+    <p><a href="https://photos.app.goo.gl/9DSYiJyWBQaMnbCb9" target="_blank" rel="noopener">View raw timelapse exports</a></p>
+  </div>
 </div>
 
 <div class="project-card">
@@ -85,17 +94,21 @@ Feedback or questions about any project or process is welcomed via a [GitHub iss
 </div>
 
 <div class="project-card">
-  <h3><a href="https://photos.app.goo.gl/xhbz6ERDyrVhF7Vd6" target="_blank" rel="noopener">Dinacon 2025 Photography</a></h3>
-  <p>Not all of the photography I took during this trip was useful as raw assets for art making.</p>
-  
-  <p>Below are album's that tell the story of my time at dinacon, curated images of life in Les fishing village Bali:</p>
-  
-  <ul>
-    <li><a href="https://photos.app.goo.gl/xhbz6ERDyrVhF7Vd6" target="_blank" rel="noopener">Dinacon Bali 2025 Story Selects</a></li>
-    <li><a href="https://photos.app.goo.gl/HKRcKAJaw3vcxCg67" target="_blank" rel="noopener">Plant Olympics</a></li>
-    <li><a href="https://photos.app.goo.gl/zmqjz56mBvRjYoAZ6" target="_blank" rel="noopener">Texture Library</a> (same as above)</li>
-    <li><a href="https://photos.app.goo.gl/9DSYiJyWBQaMnbCb9" target="_blank" rel="noopener">Timelapse Selects</a></li>
-  </ul>
+  <div class="project-content">
+    <h3><a href="https://photos.app.goo.gl/xhbz6ERDyrVhF7Vd6" target="_blank" rel="noopener">Dinacon 2025 Photography</a></h3>
+    <p>Not all of the photography I took during this trip was useful as raw assets for art making. I also spent time shooting photos for gift and trade with local resorts, hotels and homestays to help them better support themselves through their hospitality and tourism services.</p>
+    
+    <p>Below are albums that tell the story of my time at dinacon, curated images of life in Les fishing village Bali:</p>
+    
+    <ul>
+      <li><a href="https://photos.app.goo.gl/xhbz6ERDyrVhF7Vd6" target="_blank" rel="noopener">Dinacon Bali 2025 Story Selects</a></li>
+      <li><a href="https://photos.app.goo.gl/HKRcKAJaw3vcxCg67" target="_blank" rel="noopener">Plant Olympics</a></li>
+      <li><a href="https://photos.app.goo.gl/zmqjz56mBvRjYoAZ6" target="_blank" rel="noopener">Texture Library</a> (same as above)</li>
+      <li><a href="https://photos.app.goo.gl/Ff6itxBvwVcZ4hDHA" target="_blank" rel="noopener">Dinacon Last Supper</a></li>
+      <li><a href="https://photos.google.com/share/AF1QipN33IcMHt-fjRAPwgRu4ngYDBPZkvTJnp9Tvofn_62XQTepPUU5FMghTsZkqBg94Q?key=U1VMSW9rZ3BDM3lhNlV0dnlqU1IxN2RWUk1iTFV3" target="_blank" rel="noopener">Kintamani Photography</a></li>
+      <li><a href="https://photos.app.goo.gl/YkNgKnx1c6HRUAJP7" target="_blank" rel="noopener">Hotel Colosseum Kintamani</a></li>
+    </ul>
+  </div>
 </div>
 
 <div class="project-card">
